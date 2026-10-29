@@ -42,6 +42,5 @@ A beginner-friendly Python automation project that organizes files into folders 
 
 ---
 
-**Day 7 of my Python project journey.**
-
-*Learn. Build. Measure. Improve.*
+## Author
+Roshan18
